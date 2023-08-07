@@ -2,9 +2,7 @@
 File: validEmailAddress_2.py
 Name: Jack Chen
 ----------------------------
-Please construct your own feature vectors
-and try to surpass the accuracy achieved by
-Jerry's feature vector in validEmailAddress.py.
+Select Ten features selected to support:
 feature1:  There is no @ in the email. (deduct)
 feature2:  After splitting the email with '@', the last str in the list starts with an alpha.
 feature3:  No double '.' after the last '@'  (deduct)
